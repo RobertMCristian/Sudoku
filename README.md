@@ -13,13 +13,3 @@ Sudoku game coded in C++ and SFML. Application allows user to choose level of di
 1. Download [SFML](https://www.sfml-dev.org/download/sfml/2.6.1/).
 2. Create <em>SFML</em> folder in your solution directory.
 3. Copy <em>include</em> and <em>lib</em> directories to SFML folder.
-
-## Screenshots
-
-<figure>
-<img src="https://user-images.githubusercontent.com/41871003/232858837-399ea178-5f34-4428-a53c-5e532f900bbd.png" alt=".." width=450 height 450/>
-</figure>
-
-<figure>
-<img src="https://user-images.githubusercontent.com/41871003/232859115-26e35d84-49f3-448f-80f1-4f0f22bf8793.png" alt=".." width=450 height 450/>
-</figure>
